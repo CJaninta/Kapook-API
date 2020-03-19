@@ -1,6 +1,6 @@
 <?php
 
-	$conn = mysqli_connect('localhost','root','12345678','kapook');
+	$conn = mysqli_connect('localhost','/your-root','/your-password','kapook');
 
 	mysqli_set_charset($conn, 'utf8');
 
