@@ -90,8 +90,8 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`User_ID`, `Username`, `Password`, `Email`) VALUES
-(66, 'Chawalit_mac', '7890', 'toki_mac002@gmail.com'),
-(67, 'macky', '7890', 'Chawalit_mac@hotmail.com');
+(66, 'Chawalit_mac', 'password', 'toki_mac002@gmail.com'),
+(67, 'macky', 'password', 'Chawalit_mac@hotmail.com');
 
 --
 -- Indexes for dumped tables
